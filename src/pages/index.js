@@ -1,4 +1,5 @@
 import React from 'react';
+new URL('../empty.js', import.meta.url);
 
 export default function Home() {
   return (
